@@ -23,7 +23,7 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/) - Vitalik Buterin on Merkle trees
 * [Homomorphic encryption](https://blog.cryptographyengineering.com/2012/01/02/very-casual-introduction-to-fully/) - Blog post by Matthew Green
 * [Griefing Factors](http://vitalik.ca/files/extortion_griefing_bounds.pdf) - "A Note on Limits on Incentive Compatibility and Griefing Factors" by Vitalik Buterin
-* [ZK-Snarks](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)] - ZK-Snarks under the hood by Vitalik Buterin
+* [ZK-Snarks](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6) - ZK-Snarks under the hood by Vitalik Buterin
 * [Atomic swap](https://en.bitcoin.it/wiki/Atomic_cross-chain_trading) - Wiki on atomic cross-chain trading
 * [Patricia Tree](https://github.com/ethereum/wiki/wiki/Patricia-Tree) - Wiki on Merkle Patricia tree/trie used in Ethereum
 * [Introduction to Cryptoeconomics](https://www.youtube.com/watch?v=pKqdjaH1dRo) - Vitalik Buterin's introduction to the field
@@ -86,18 +86,18 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [On Settlement Finality](https://blog.ethereum.org/2016/05/09/on-settlement-finality/) - Vitalik Buterin on settlement finality
 * [Light Clients and Proof of Stake](https://blog.ethereum.org/2015/01/10/light-clients-proof-stake/) - Vitalik Buterin post on light clients using PoS
 * [Weak Subjectivity](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/) - Vitalik Buterin on PoS
-- [Cryptocurrencies without Proof of Work](https://arxiv.org/abs/1406.5694)
-- [Slasher Ghost, and Other Developments in Proof of Stake](https://blog.ethereum.org/2014/10/03/slasher-ghost-developments-proof-stake/)
-- [Least Authority Performs Incentive Analysis For Ethereum](https://leastauthority.com/blog/least_authority_performs_incentive_analysis_for_ethereum/)
-- [Demystifying incentives in the consensus computer](https://eprint.iacr.org/2015/702)
-- [On Stake](https://blog.ethereum.org/2014/07/05/stake/)
-- [Safety Under Dynamic Validator Sets](https://medium.com/@VitalikButerin/safety-under-dynamic-validator-sets-ef0c3bbdf9f6)
+* [Cryptocurrencies without Proof of Work](https://arxiv.org/abs/1406.5694)
+* [Slasher Ghost, and Other Developments in Proof of Stake](https://blog.ethereum.org/2014/10/03/slasher-ghost-developments-proof-stake/)
+* [Least Authority Performs Incentive Analysis For Ethereum](https://leastauthority.com/blog/least_authority_performs_incentive_analysis_for_ethereum/)
+* [Demystifying incentives in the consensus computer](https://eprint.iacr.org/2015/702)
+* [On Stake](https://blog.ethereum.org/2014/07/05/stake/)
+* [Safety Under Dynamic Validator Sets](https://medium.com/@VitalikButerin/safety-under-dynamic-validator-sets-ef0c3bbdf9f6)
 * [Using trusted hardware](https://medium.com/@loiluu/casper-sgx-8475e56244b)
-- [Formal methods on some PoS stuff](https://medium.com/@pirapira/formal-methods-on-some-pos-stuff-e309775c2ab8)
-- [A mechanized safety proof with dynamic validators](https://medium.com/@pirapira/a-mechanized-safety-proof-for-pos-with-dynamic-validators-17e9b45faff4)
-- [Formal methods on another Casper](https://medium.com/@pirapira/formal-methods-on-another-casper-8a75f6e02073)
-- [Sharding FAQ](https://github.com/ethereum/wiki/wiki/Sharding-FAQ) - Frequently asked questions on Sharding from Ethereum
-- [Nothing at Stake Problem](https://ethereum.stackexchange.com/questions/2402/what-exactly-is-the-nothing-at-stake-problem) - StackExchange "What exactly is the Nothing-At-Stake problem?"
+* [Formal methods on some PoS stuff](https://medium.com/@pirapira/formal-methods-on-some-pos-stuff-e309775c2ab8)
+* [A mechanized safety proof with dynamic validators](https://medium.com/@pirapira/a-mechanized-safety-proof-for-pos-with-dynamic-validators-17e9b45faff4)
+* [Formal methods on another Casper](https://medium.com/@pirapira/formal-methods-on-another-casper-8a75f6e02073)
+* [Sharding FAQ](https://github.com/ethereum/wiki/wiki/Sharding-FAQ) - Frequently asked questions on Sharding from Ethereum
+* [Nothing at Stake Problem](https://ethereum.stackexchange.com/questions/2402/what-exactly-is-the-nothing-at-stake-problem) - StackExchange "What exactly is the Nothing-At-Stake problem?"
 
 ### Fault Attribution
 * [The problem of censorship](https://blog.ethereum.org/2015/06/06/the-problem-of-censorship/) - Vitalik Buterin on attributability of censorship
