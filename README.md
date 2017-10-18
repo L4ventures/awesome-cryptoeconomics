@@ -90,12 +90,11 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [Slasher Ghost, and Other Developments in Proof of Stake](https://blog.ethereum.org/2014/10/03/slasher-ghost-developments-proof-stake/)
 * [Least Authority Performs Incentive Analysis For Ethereum](https://leastauthority.com/blog/least_authority_performs_incentive_analysis_for_ethereum/)
 * [Demystifying incentives in the consensus computer](https://eprint.iacr.org/2015/702)
-* [On Stake](https://blog.ethereum.org/2014/07/05/stake/)
-* [Safety Under Dynamic Validator Sets](https://medium.com/@VitalikButerin/safety-under-dynamic-validator-sets-ef0c3bbdf9f6)
-* [Using trusted hardware](https://medium.com/@loiluu/casper-sgx-8475e56244b)
-* [Formal methods on some PoS stuff](https://medium.com/@pirapira/formal-methods-on-some-pos-stuff-e309775c2ab8)
-* [A mechanized safety proof with dynamic validators](https://medium.com/@pirapira/a-mechanized-safety-proof-for-pos-with-dynamic-validators-17e9b45faff4)
-* [Formal methods on another Casper](https://medium.com/@pirapira/formal-methods-on-another-casper-8a75f6e02073)
+* [On Stake](https://blog.ethereum.org/2014/07/05/stake/) - Early Vitalik post on staking
+* [Formal methods on some PoS stuff](https://medium.com/@pirapira/formal-methods-on-some-pos-stuff-e309775c2ab8) - Formalizing PoS Medium article
+* [Safety Under Dynamic Validator Sets](https://medium.com/@VitalikButerin/safety-under-dynamic-validator-sets-ef0c3bbdf9f6) - Vitalik Buterin medium post on safety
+* [A mechanized safety proof with dynamic validators](https://medium.com/@pirapira/a-mechanized-safety-proof-for-pos-with-dynamic-validators-17e9b45faff4) - A reply to the Vitalik Buterin post above
+* [Formal methods on another Casper](https://medium.com/@pirapira/formal-methods-on-another-casper-8a75f6e02073) - Talking about the differences betwen Vlad and Vitalik's approach to Casper
 * [Sharding FAQ](https://github.com/ethereum/wiki/wiki/Sharding-FAQ) - Frequently asked questions on Sharding from Ethereum
 * [Nothing at Stake Problem](https://ethereum.stackexchange.com/questions/2402/what-exactly-is-the-nothing-at-stake-problem) - StackExchange "What exactly is the Nothing-At-Stake problem?"
 
@@ -124,6 +123,8 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 ### Stablecoins
 * [Stablecoins](https://www.youtube.com/watch?v=Z8LV56xNwus) - A talk at Cryptoeconomicon
 * [The Search for a Stable Cryptocurrency](https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/) - Vitalik Buterin on stablecoins
+* [The Dai Stablecoin System](https://github.com/makerdao/docs/blob/master/Dai.md) - MakerDAO's approach to a stable currency
+
 
 ### Other
 * [Ethereum Research Problems](https://github.com/ethereum/research/wiki/Problems) - list of open research problems the Ethereum Foundation is tackling
