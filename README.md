@@ -97,6 +97,8 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [Formal methods on another Casper](https://medium.com/@pirapira/formal-methods-on-another-casper-8a75f6e02073) - Talking about the differences betwen Vlad and Vitalik's approach to Casper
 * [Sharding FAQ](https://github.com/ethereum/wiki/wiki/Sharding-FAQ) - Frequently asked questions on Sharding from Ethereum
 * [Nothing at Stake Problem](https://ethereum.stackexchange.com/questions/2402/what-exactly-is-the-nothing-at-stake-problem) - StackExchange "What exactly is the Nothing-At-Stake problem?"
+* [Cryptoeconomics in Casper](https://youtu.be/5ScY7ruD_eg) - Video by Vlad Zamfir on Casper
+* [Ethereum Casper 101](https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0) - Great article on Cryptoeconomics overall with a focus on PoS
 
 ### Fault Attribution
 * [The problem of censorship](https://blog.ethereum.org/2015/06/06/the-problem-of-censorship/) - Vitalik Buterin on attributability of censorship
