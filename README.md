@@ -45,7 +45,7 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 ## Applications
 
 ### Smart Contracts
-* [Making Sense of Blockchain Smart Contracts](https://www.coindesk.com/making-sense-smart-contracts/) - CoinDesk article on smart contracts
+* [Making Sense of Blockchain Smart Contracts](https://medium.com/@jjmstark/part-2-making-sense-of-smart-contracts-dfef850f049c) - [Josh Stark](http://0xstark.com/about/) on "smart contract code" vs "legal smart contracts"
 * [Thinking About Smart Contract Security](https://blog.ethereum.org/2016/06/19/thinking-smart-contract-security/) - Vitalik Buterin on smart contract security
 
 ### State Channels
@@ -133,7 +133,7 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [More Ethereum Research Problems](https://github.com/ethereum/wiki/wiki/Problems) - The old page which is still full of good content
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 * [Awesome Economics](https://github.com/antontarasenko/awesome-economics) - A curated collection of links for economists
-* [Making Sense of Cryptoeconomics](https://www.coindesk.com/making-sense-cryptoeconomics/) - An article on CoinDesk by [Josh Stark](http://0xstark.com/about/).
+* [Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669) - An overview of cryptoeconomics by [Josh Stark](http://0xstark.com/about/).
 * [Futarchy](https://blog.ethereum.org/2014/08/21/introduction-futarchy/) - An intro to futarchy by Vitalik Buterin
 
 ## License
