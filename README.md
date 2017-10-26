@@ -9,9 +9,10 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 ## Table of Contents
 
 * [Fundamentals](#fundamentals)
-* [Research](#research)
-* [Applications](#applications)
 * [Discussions](#discussions)
+* [Applications](#applications)
+* [Attacks](#attacks)
+* [Research](#research)
 * [Other](#other)
 * [License](#license)
 
@@ -19,6 +20,7 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [Public-private key cryptography](https://security.stackexchange.com/questions/25741/how-can-i-explain-the-concept-of-public-and-private-keys-without-technical-jargo) - Simple explanation on StackExchange
 * [Hash functions](https://medium.com/@ConsenSys/blockchain-underpinnings-hashing-7f4746cbd66b) - Basics of Hashing from Consensys
 * [Ethereum](https://github.com/ethereum/wiki/wiki/White-Paper) - The Ethereum whitepaper
+* [Devcon2: Ethereum in 25 minutes](https://www.youtube.com/watch?v=66SaEDzlmP4) - Quick overview of main features of Ethereum by Vitalik Buterin
 * [Design Rationale](https://github.com/ethereum/wiki/wiki/Design-Rationale) - The Ethereum design rationale
 * [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/) - Vitalik Buterin on Merkle trees
 * [Homomorphic encryption](https://blog.cryptographyengineering.com/2012/01/02/very-casual-introduction-to-fully/) - Blog post by Matthew Green
@@ -99,6 +101,8 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [Nothing at Stake Problem](https://ethereum.stackexchange.com/questions/2402/what-exactly-is-the-nothing-at-stake-problem) - StackExchange "What exactly is the Nothing-At-Stake problem?"
 * [Cryptoeconomics in Casper](https://youtu.be/5ScY7ruD_eg) - Video by Vlad Zamfir on Casper
 * [Ethereum Casper 101](https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0) - Great article on Cryptoeconomics overall with a focus on PoS
+* [Plasma: Scalable Autonomous Smart Contracts](http://plasma.io/plasma.pdf) - Paper on Plasma by Joseph Poon & Vitalik Buterin
+* [Plasma in 10 minutes](https://medium.com/chain-cloud-company-blog/plasma-in-10-minutes-c856da94e339) - Easy to understand overview of Plasma proposal by Anthony Akentiev
 
 ### Fault Attribution
 * [The problem of censorship](https://blog.ethereum.org/2015/06/06/the-problem-of-censorship/) - Vitalik Buterin on attributability of censorship
@@ -128,7 +132,7 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [The Dai Stablecoin System](https://github.com/makerdao/docs/blob/master/Dai.md) - MakerDAO's approach to a stable currency
 
 
-### Other
+## Other
 * [Ethereum Research Problems](https://github.com/ethereum/research/wiki/Problems) - list of open research problems the Ethereum Foundation is tackling
 * [More Ethereum Research Problems](https://github.com/ethereum/wiki/wiki/Problems) - The old page which is still full of good content
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
