@@ -66,6 +66,7 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [Analyzing Token Sale Models](http://vitalik.ca/general/2017/06/09/sales.html) - Vitalik Buterin reviewing token sale models, including Gnosis' dutch auction
 * [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction#Proof_of_dominance_of_truthful_bidding) - Method used to keep bids secret and have the winner pay the 2nd highest amount
 * [Long-Term Cryptocurrency Distribution Models](https://blog.ethereum.org/2014/05/24/on-long-term-cryptocurrency-distribution-models/) - Early Vitalik Buterin post on token distribution
+* [https://cointelegraph.com/explained/ico-explained](https://cointelegraph.com/explained/ico-explained) - Basics of Initial Coin Offerings by Andrew Marshall
 
 ## Attacks
 * [51 percent attack](https://bitcoin.stackexchange.com/questions/658/what-can-an-attacker-with-51-of-hash-power-do) - StackExchange answer to "What can an attacker with 51% of hash power do?"
@@ -139,6 +140,7 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [Awesome Economics](https://github.com/antontarasenko/awesome-economics) - A curated collection of links for economists
 * [Making Sense of Cryptoeconomics](https://www.coindesk.com/making-sense-cryptoeconomics/) - An article on CoinDesk by [Josh Stark](http://0xstark.com/about/).
 * [Futarchy](https://blog.ethereum.org/2014/08/21/introduction-futarchy/) - An intro to futarchy by Vitalik Buterin
+* [Cryptocurrency Market Capitalizations](https://coinmarketcap.com/) - Site that tracks most cryptocurrencies that have hit the market
 
 ## License
 
