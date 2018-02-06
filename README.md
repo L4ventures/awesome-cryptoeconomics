@@ -33,8 +33,8 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 ### State Channels
 * [Lightning Network](http://lightning.network/) - Payment channels on the Bitcoin network
 * [Raiden Network](http://Raiden.network/) - Payment channels on the Ethereum network
+* [Perun Network](http://perun.network) - Perun Network (virtual channels)
 * [State Channels Explanation](http://www.jeffcoleman.ca/state-channels/) - Jeff Coleman on state channels
-* [Counterfactual Terminology](https://github.com/ledgerlabs/state-channels/wiki/Counterfactual-Terminology) - Jeff Coleman's use of the term counterfactual
 
 ### Token Design
 * [How Does REP Work](http://blog.augur.net/faq/how-does-reputation-rep-work/) - Augur report on incentive structure of their prediction market token, REP
@@ -76,8 +76,6 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [Proof of Work](https://www.youtube.com/watch?v=sADoZx7Ar4A) - A talk at Cryptoeconomicon
 
 ### More PoS
-* [On Slow and Fast Block Times](https://blog.ethereum.org/2015/09/14/on-slow-and-fast-block-times/) - Vitalik Buterin on enabling faster block times
-* [Is Ethereum ASIC resistant?](https://ethereum.stackexchange.com/questions/16811/is-ethereum-asic-resistant) - StackExchange question on ASIC resistance of Ethereum
 * [On Inflation, Transaction Fees and Cryptocurrency Monetary Policy](https://blog.ethereum.org/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy/) - Vitalik Buterin
 * [On Settlement Finality](https://blog.ethereum.org/2016/05/09/on-settlement-finality/) - Vitalik Buterin on settlement finality
 * [Light Clients and Proof of Stake](https://blog.ethereum.org/2015/01/10/light-clients-proof-stake/) - Vitalik Buterin post on light clients using PoS
@@ -92,9 +90,13 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [Formal methods on another Casper](https://medium.com/@pirapira/formal-methods-on-another-casper-8a75f6e02073) - Talking about the differences betwen Vlad and Vitalik's approach to Casper
 * [Nothing at Stake Problem](https://ethereum.stackexchange.com/questions/2402/what-exactly-is-the-nothing-at-stake-problem) - StackExchange "What exactly is the Nothing-At-Stake problem?"
 
-### Sidechains
+### Plasma
 * [Plasma: Scalable Autonomous Smart Contracts](http://plasma.io/plasma.pdf) - Paper on Plasma by Joseph Poon & Vitalik Buterin
 * [Plasma in 10 minutes](https://medium.com/chain-cloud-company-blog/plasma-in-10-minutes-c856da94e339) - Easy to understand overview of Plasma proposal by Anthony Akentiev
+
+### Sidechains
+* [Sidechains](https://blockstream.com/sidechains.pdf) - Blockstream: Enabling Blockchain Innovations with Pegged Sidechains
+* [Cosmos - A Network of Distributed Ledgers](https://cosmos.network/about/whitepaper) - Cosmos whitepaper
 
 ### Fault Attribution
 * [The problem of censorship](https://blog.ethereum.org/2015/06/06/the-problem-of-censorship/) - Vitalik Buterin on attributability of censorship
@@ -104,6 +106,7 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 ### Mechanism Design
 * [Mechanism Design](https://en.wikipedia.org/wiki/Mechanism_design) - Wikipedia article
 * [On Anti-Pre-Revelation Games](https://blog.ethereum.org/2015/08/28/on-anti-pre-revelation-games/) - Vitalik Buterin on anti-pre-revelation games
+* [Blockchain and Smart Contract Mechanism Design Challenge](http://fc17.ifca.ai/wtsc/Vitalik%20Malta.pdf) - Vitalik talk in Malta
 
 ### Data Availability & Erasure Coding
 * [A note on data availability and erasure coding](https://github.com/ethereum/research/wiki/A-note-on-data-availability-and-erasure-coding) - Comprehensive review of the data availability problem from the Ethereum Foundation
