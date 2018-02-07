@@ -62,6 +62,7 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [ZK-Starks](https://www.bitcoinisle.com/2017/09/30/zk-starks-new-take-on-zcash-tech-could-power-truly-private-blockchains/) - Early article on ZK-Starks
 
 ### Proof of Stake
+* [Cryptoeconomics in Casper](https://docs.google.com/presentation/d/1m1TuGRGQcdFXizpKf44AOZYECdjUFzTX5tAUf5dQhNA/edit#slide=id.p) - A Google Slides presentation by Jon Choi
 * [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51) - Vitalik Buterin post about the design of a PoS system
 * [The Triangle of Harm](http://vitalik.ca/general/2017/07/16/triangle_of_harm.html) - Post on Casper’s incentivization philosophy
 * [Proof of Stake](https://www.youtube.com/watch?v=1tdxPzQt4ZI) - A talk at Cryptoeconomicon
