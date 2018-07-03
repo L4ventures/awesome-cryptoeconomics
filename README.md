@@ -26,6 +26,7 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [The current state of Cryptoeconomics](https://www.youtube.com/watch?v=u6VSPD5TrP4) - Another talk by Vlad Zamfir
 * [Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669) - An overview of cryptoeconomics by [Josh Stark](http://0xstark.com/about/)
 * [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976) - Understanding the Basic Fundamentals of “Cryptoeconomics”
+* [Cryptoeconomics.study -- An free and open source book & course on Cryptoeconomics](https://cryptoeconomics.study)
 * [Programmable Incentives - Intro to Cryptoeconomics](https://www.youtube.com/watch?v=-alrVUv6E24) - A talk by Karl Floresch at DevCon 3
 
 ## Applications
